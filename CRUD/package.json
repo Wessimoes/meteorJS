@@ -1,5 +1,5 @@
 {
-  "name": "simpleCRUD",
+  "name": "CRUD",
   "private": true,
   "scripts": {
     "start": "meteor run"
